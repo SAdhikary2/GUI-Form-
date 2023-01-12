@@ -1,0 +1,3 @@
+
+ ('Sukalyan Adhikary', '9874562211', 'Male', '12222', 'Paytm', 1)
+ 
